@@ -1,0 +1,8 @@
+{
+  "name": "AI SignBridge",
+  "description": "Real-time Sign Language translation platform using client-side Tracking and server-side Gemini AI content correction and feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
